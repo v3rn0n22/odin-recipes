@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+div {
+    text-align: center;  
+}
+
+ul {
+    list-style: none;   
+}
+
+.links a {
+  background-color: rgba(227, 216, 168, 0.911);
+  color: rgb(11, 11, 11);
+  text-decoration: none;
+  padding: 1em 2em;
+}
+
+.links a:hover {
+    background-color: rgb(109, 107, 108);
+    color: #fff;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border-image: fill;
+
+
+}
+
